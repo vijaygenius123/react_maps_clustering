@@ -10,6 +10,7 @@
     "react-dom": "^16.13.1",
     "react-map-gl": "^5.2.7",
     "react-scripts": "3.4.1",
+    "react-supercluster": "^1.0.0",
     "swr": "^0.2.3",
     "use-supercluster": "^0.2.8"
   },
